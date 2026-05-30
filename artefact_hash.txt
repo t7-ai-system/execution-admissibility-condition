@@ -1,0 +1,5 @@
+artefact_01.json
+SHA256: 33b6f23e9557fa297cfe1673b875ba496397ffecd1b9fceb6b8ddc4cdaace079
+
+artefact_02.json
+SHA256: 5826d944680bceb692004dbb1f9c329f06fc046db22f6538e72d3af1db095191
